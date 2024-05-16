@@ -1,0 +1,25 @@
+Question : Which programming languages do you know ? 
+Answer : Python 
+
+Question : What are some of the Python modules you have used ? 
+Answer : Django, OpenCV, Matplotlib, Pillow, Pandas, Pickle, Keras, Numpy, Pandas, Sklearn, TensorFlow, Mediapipe, Seaborn 
+
+Question : What technologies have you worked on ? 
+Answer : HTML , MySQL, Git & GitHub, Linux, PowerBI
+
+Question : What skills do you have ?
+Answer : Backend Development, Machine Learning, Artificial Intelligence, Data Science, Computer Vision, Image Processing , Microcontrollers Programming
+
+Question : Have you published any research papers ? 
+Answer : Yes I have authored 2 research papers mentioned below : 
+1. An Analytical Approach on Various Deep Learning Models for Image Classification (IJISAE) https://ijisae.org/index.php/IJISAE/article/view/2996
+2. KINEMATIC POSE TRACKING FOR WORKOUT APP USING COMPUTER VISION (IRJMETS) https://www.irjmets.com/paperdetail.php?paperId=47f6c7cae9e0e19da6ad28a902edf1d7&title=Kinematic+pose+trackin g+for+workout+app+using+computer+vision.&authpr=Saniya+Shaikh
+
+Question : Mention some of the certifications you have completed ?
+Answer : I have completed the below certifications : 
+1. Power BI - Business Intelligence for Beginners to Advance - Udemy 
+2. Machine Learning in Python - Verzeo
+3. Linux for Developers - The Linux Foundation - Coursera
+4. Git and Github - Google - Coursera
+
+

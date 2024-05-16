@@ -1,5 +1,26 @@
 
+# Setup and Installation Phase
 
+1. Install python3.12 
+
+2. Create a virtual environment
+
+```
+python3 -m venv .venv
+
+```
+
+2. Activate the virtual env
+
+```
+source .venv/bin/activate
+```
+
+3. Install all dependencies for the project inside the virtual environment [Click here for more info about langflow](https://docs.langflow.org)
+
+```
+pip3 install langflow --pre --force-reinstall
+```
 
 # Prototype Phase
 
